@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSS.lab5.Exercise1", "ITMO.CSS.lab5.Exercise1\ITMO.CSS.lab5.Exercise1.csproj", "{C997C0E4-B265-4524-977B-3BDE2E179DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C997C0E4-B265-4524-977B-3BDE2E179DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C997C0E4-B265-4524-977B-3BDE2E179DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C997C0E4-B265-4524-977B-3BDE2E179DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C997C0E4-B265-4524-977B-3BDE2E179DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886EBCBE-C63C-4385-AA64-175BF3CA9371}
+	EndGlobalSection
+EndGlobal
