@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSS.lab6.Exercise1", "ITMO.CSS.lab6.Exercise1\ITMO.CSS.lab6.Exercise1.csproj", "{238DB8C5-AEDA-4AB1-A0D6-38330F92AC3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSS.lab6.Exercise2", "ITMO.CSS.lab6.Exercise2\ITMO.CSS.lab6.Exercise2.csproj", "{76DD2463-D972-4342-B78C-6C2EF901EF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSS.lab6.Exercise3", "ITMO.CSS.lab6.Exercise3\ITMO.CSS.lab6.Exercise3.csproj", "{0B5B0414-4CCF-43B6-B640-4BDF30D868DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{238DB8C5-AEDA-4AB1-A0D6-38330F92AC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238DB8C5-AEDA-4AB1-A0D6-38330F92AC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238DB8C5-AEDA-4AB1-A0D6-38330F92AC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DD2463-D972-4342-B78C-6C2EF901EF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DD2463-D972-4342-B78C-6C2EF901EF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DD2463-D972-4342-B78C-6C2EF901EF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DD2463-D972-4342-B78C-6C2EF901EF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5B0414-4CCF-43B6-B640-4BDF30D868DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5B0414-4CCF-43B6-B640-4BDF30D868DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5B0414-4CCF-43B6-B640-4BDF30D868DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5B0414-4CCF-43B6-B640-4BDF30D868DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
